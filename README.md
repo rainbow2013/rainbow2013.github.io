@@ -1,6 +1,6 @@
 # @Rainbow2013 's Website
 
-[Chinese Page/中文界面](/cn/README.md)
+[Chinese Page/中文界面](/cn/)
 
 [My Homepage](https://github.com/rainbow2013)
 
