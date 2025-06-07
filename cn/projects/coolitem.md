@@ -1,6 +1,6 @@
 # Coolitem（酷物品）
 
-[English Page/英文界面](/projects/coolitem.md)
+[English Page/英文界面](/projects/coolitem)
 
 ## Coolitem（酷物品）的信息
 

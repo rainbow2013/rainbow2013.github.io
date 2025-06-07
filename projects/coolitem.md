@@ -1,6 +1,6 @@
 # Coolitem
 
-[Chinese Page/中文界面](/cn/projects/coolitem.md)
+[Chinese Page/中文界面](/cn/projects/coolitem)
 
 ## Coolitem's Infomation
 

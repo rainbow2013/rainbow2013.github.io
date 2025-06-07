@@ -6,7 +6,7 @@
 
 My Projects:
 
-1. [Minecraft Mod "Coolitem"](/projects/coolitem.md) & [Source Code On Github](https://github.com/rainbow2013/coolitem) & [Downloads](/downloads/coolitem.md)
+1. [Minecraft Mod "Coolitem"](/projects/coolitem.html) & [Source Code On Github](https://github.com/rainbow2013/coolitem) & [Downloads](/downloads/coolitem.html)
 
 2. [Source Code Of This Website](https://github.com/rainbow2013/rainbow2013.github.io)
 
