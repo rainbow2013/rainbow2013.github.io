@@ -1,5 +1,7 @@
 # @Rainbow2013 's Website
 
+[Chinese Page/中文界面](/cn/README.md)
+
 [My Homepage](https://github.com/rainbow2013)
 
 My Projects:

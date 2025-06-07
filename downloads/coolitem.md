@@ -1,5 +1,7 @@
 # Releases
 
+[Chinese Page/中文界面](/cn/projects/coolitem.md)
+
 ## [1.0.0](https://github.com/rainbow2013/coolitem/releases/download/1.0.0/coolitem-1.0.0.jar)
 
 >

@@ -1,5 +1,7 @@
 # Coolitem（酷物品）
 
+[English Page/英文界面](/projects/coolitem.md)
+
 ## Coolitem（酷物品）的信息
 
 Coolitem（酷物品）, 我的第一个Minecraft（我的世界）模组(很差劲，呵呵，想看优秀的就去首页点好van的)

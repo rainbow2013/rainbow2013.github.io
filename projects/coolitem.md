@@ -1,5 +1,7 @@
 # Coolitem
 
+[Chinese Page/中文界面](/cn/projects/coolitem.md)
+
 ## Coolitem's Infomation
 
 Coolitem, My First Minecraft Mod(But It's Poor Hehe)
