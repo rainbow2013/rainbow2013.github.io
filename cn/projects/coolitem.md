@@ -2,6 +2,8 @@
 
 [English Page/英文界面](/projects/coolitem)
 
+### 提示：本项目以Archived归档
+
 ## Coolitem（酷物品）的信息
 
 Coolitem（酷物品）, 我的第一个Minecraft（我的世界）模组(很差劲，呵呵，想看优秀的就去首页点好van的)
@@ -39,3 +41,4 @@ Coolitem（酷物品）, 我的第一个Minecraft（我的世界）模组(很差
 
 <!-- markdownlint-disable-file required-headings -->
 ```
+
