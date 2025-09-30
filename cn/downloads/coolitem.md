@@ -2,6 +2,8 @@
 
 [English Page/英文界面](/downloads/coolitem)
 
+### 不要期待它更新，他已经Archived归档了
+
 ## [1.0.0](https://github.com/rainbow2013/coolitem/releases/download/1.0.0/coolitem-1.0.0.jar)
 
 >
@@ -35,3 +37,4 @@
 
 > 现在，在钻石工作台的界面被关闭时，会掉落里面的物品。
 > 新建了一个叫复制器的方块，可以复制物品。
+
