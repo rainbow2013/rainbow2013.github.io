@@ -2,6 +2,8 @@
 
 [Chinese Page/中文界面](/cn/projects/coolitem)
 
+### It has been Archived!
+
 ## Coolitem's Infomation
 
 Coolitem, My First Minecraft Mod(But It's Poor Hehe)
@@ -38,3 +40,4 @@ I like Avaritia, but it requires a lower version. So I wrote a Mod and I think i
 
 <!-- markdownlint-disable-file required-headings -->
 ```
+
