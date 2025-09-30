@@ -2,6 +2,8 @@
 
 [Chinese Page/中文界面](/cn/projects/coolitem)
 
+### Don't Wait For It Update, It has been Archived!
+
 ## [1.0.0](https://github.com/rainbow2013/coolitem/releases/download/1.0.0/coolitem-1.0.0.jar)
 
 >
@@ -35,3 +37,4 @@
 
 > Now, when the interface of Diamond Crafting Table is closed, items inside will drop.
 > A new block called Copier has been created, which allows you to copy items.
+
