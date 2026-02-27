@@ -1,6 +1,6 @@
 # Releases
 
-[Chinese Page/中文界面](/cn/projects/coolitem)
+[Chinese Page/中文界面](/cn/projects/coolitem.md)
 
 ### Don't Wait For It Update, It has been Archived!
 
@@ -25,8 +25,7 @@
 > In Chinese, Now "钻石合成台" has been changed to "钻石工作台"
 
 ## [1.1.4&iron_craft (April Fool's Day 2025)](https://github.com/rainbow2013/coolitem/releases/download/1.1.4%26iron_craft/coolitem-1.1.4.iron_craft.jar)
-<!-- It's Update On Feb. 2, 2025 hehe -->
-> Earlier April Fool's Day version!
+> April Fool's Day version updates pretty early!
 > Iron2Super!
 
 ## [1.1.5](https://github.com/rainbow2013/coolitem/releases/download/1.1.5/coolitem-1.1.5.jar)
