@@ -7,8 +7,8 @@
 
 Jade: Unhide, The 1st Minecraft Mod that do things for other Mod(s).
 
-This Mod show the blocks that Jade hiding into other blocks.
+This Mod shows the blocks that Jade hiding into other blocks.
 
-[Source Code](https://github.com/rainbow2013/coolitem)
+[Source Code](https://github.com/rainbow2013/jade-unhide)
 
-[Downloads](/downloads/coolitem/)
+[Downloads](/downloads/jade-unhide/)
