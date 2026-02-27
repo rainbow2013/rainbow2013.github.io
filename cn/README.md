@@ -6,9 +6,9 @@
 
 我的项目:
 
-1. [Minecraft模组 "Coolitem"(已归档)](/cn/projects/coolitem.md) & [源代码](https://github.com/rainbow2013/coolitem) & [下载](/cn/downloads/coolitem.md)
+1. [Minecraft模组 "Coolitem"(已归档)](/cn/projects/coolitem/) & [源代码](https://github.com/rainbow2013/coolitem) & [下载](/cn/downloads/coolitem/)
 
-2. [Minecraft模组 "Jade: Unhide"](/cn/projects/jade-unhide.md) & [源代码](https://github.com/rainbow2013/jade-unhide) & [下载](/cn/downloads/jade-unhide.md)
+2. [Minecraft模组 "Jade: Unhide"](/cn/projects/jade-unhide/) & [源代码](https://github.com/rainbow2013/jade-unhide) & [下载](/cn/downloads/jade-unhide/)
 
 3. [这个网站的源代码](https://github.com/rainbow2013/rainbow2013.github.io)
 

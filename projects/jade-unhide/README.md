@@ -1,6 +1,6 @@
 # Jade: Unhide
 
-[Chinese Page/中文界面](/cn/projects/jade-unhide.md)
+[Chinese Page/中文界面](/cn/projects/jade-unhide/)
 
 
 ## Information
@@ -11,4 +11,4 @@ This Mod show the blocks that Jade hiding into other blocks.
 
 [Source Code](https://github.com/rainbow2013/coolitem)
 
-[Downloads](/downloads/coolitem.md)
+[Downloads](/downloads/coolitem/)

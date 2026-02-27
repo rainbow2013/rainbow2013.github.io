@@ -6,9 +6,9 @@
 
 My Projects:
 
-1. [Minecraft Mod "Coolitem" (Archived)](/projects/coolitem.md) & [Source Code](https://github.com/rainbow2013/coolitem) & [Downloads](/downloads/coolitem.md)
+1. [Minecraft Mod "Coolitem" (Archived)](/projects/coolitem/) & [Source Code](https://github.com/rainbow2013/coolitem) & [Downloads](/downloads/coolitem/)
 
-2. [Minecraft Mod "Jade: Unhide"](/projects/jade-unhide.md) & [Source Code](https://github.com/rainbow2013/jade-unhide) & [Downloads](/downloads/jade-unhide.md)
+2. [Minecraft Mod "Jade: Unhide"](/projects/jade-unhide/) & [Source Code](https://github.com/rainbow2013/jade-unhide) & [Downloads](/downloads/jade-unhide/)
 
 3. [Source Code Of This Website](https://github.com/rainbow2013/rainbow2013.github.io)
 
