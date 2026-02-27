@@ -1,6 +1,6 @@
 # Releases
 
-[Chinese Page/中文界面](/cn/projects/coolitem/)
+[Chinese Page/中文界面](/cn/downloads/coolitem/)
 
 ### Don't Wait For It Update, It has been Archived!
 
